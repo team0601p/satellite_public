@@ -1,11 +1,10 @@
-# SW중심대학 공동 AI 경진대회 2023
-# 4등상(전체 9등)
+# 🔥 SW중심대학 공동 AI 경진대회 2023 🔥
+https://dacon.io/competitions/official/236092/overview/description
+
+# 🏆 4등상(전체 9등)
 
 ### team 0601p
-
 model descriptions and train methods are in 0601p_발표자료
-
-https://dacon.io/competitions/official/236092/overview/description
 
 ### preprocess, install deps
 download open.zip from
